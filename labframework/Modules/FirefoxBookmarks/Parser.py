@@ -1,0 +1,1 @@
+"Analyse places.sqlite from firefox's profile database location"

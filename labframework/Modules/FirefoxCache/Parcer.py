@@ -1,0 +1,1 @@
+"Analyse folder cache2 from firefox's profile folder"

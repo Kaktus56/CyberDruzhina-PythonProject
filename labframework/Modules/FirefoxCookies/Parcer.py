@@ -1,0 +1,1 @@
+"Analyse cookies.sqlite from firefox's profile database location"

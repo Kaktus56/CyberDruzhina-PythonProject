@@ -146,5 +146,3 @@ class Solver:
             moduleResult = await self._ProcessTask(moduleFullPath,'Parser.py')
             
             await self._redrawUIMethod(f'Завершена работа модуля: {moduleResult}',100)
-        
-        

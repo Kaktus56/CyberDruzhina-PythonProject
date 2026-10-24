@@ -416,4 +416,3 @@ class Parser:
             await outputWriter.CloseOutput()
             
         return {self.__parameters.get('MODULENAME'):outputWriter.GetDBName()}
-
